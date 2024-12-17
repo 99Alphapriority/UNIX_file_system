@@ -1,0 +1,15 @@
+M disk1
+C dir1 0
+Y dir1
+C dir2 0
+Y dir2
+C dir1 0
+C file1 10
+B test
+W file1 9
+C dir3 0
+D file1
+C file2 100
+L
+Y ..
+Y ..

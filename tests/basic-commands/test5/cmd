@@ -1,0 +1,8 @@
+M disk1
+L
+Y rand
+C rand 1
+Y rand
+C dir 0
+Y dir
+L

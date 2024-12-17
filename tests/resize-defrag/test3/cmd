@@ -1,0 +1,9 @@
+M disk1
+E file1 4
+B f1nblock0
+W file1 2
+B f1nblock1
+W file1 3
+E file3 2
+B f3block
+W file3 1

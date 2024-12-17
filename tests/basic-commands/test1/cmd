@@ -1,0 +1,20 @@
+M disk1
+C file1 1
+B helloworld
+W file1 0
+C file1 5
+C dir 0
+Y dir
+C file2 10
+B hellohello
+W file2 9
+C file1 5
+W file1 4
+C dir2 0
+Y dir2
+L
+Y ..
+D file1
+Y ..
+D dir
+L

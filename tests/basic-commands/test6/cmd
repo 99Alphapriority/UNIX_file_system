@@ -1,0 +1,10 @@
+M disk1
+C this 4
+B firstword
+W this 4
+W this 0
+B secondword
+R this 1
+W this 0
+B thirdword
+W this 2
